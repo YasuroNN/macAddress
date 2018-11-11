@@ -1,7 +1,7 @@
 {
 	"macs":{
 		"1": {
-			"macAddress": ["30-NAN-23-NAN-NAN-6B","0A-00-27-00-00-10"],
+			"macAddress": ["30-NAN-23-NAN-NAN-6B","0A-00-27-00-00-09"],
 			"name": "YasuroNN"
 		},
 		"2": {

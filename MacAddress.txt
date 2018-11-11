@@ -10,4 +10,5 @@
 		}
 	},
 	"version":[1]
+	"checkFile":"https://botsat.000webhostapp.com/?"
 }

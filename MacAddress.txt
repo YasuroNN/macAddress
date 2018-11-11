@@ -5,7 +5,7 @@
 			"name": "YasuroNN"
 		},
 		"2": {
-			"macAddress": "30-NAN-23-NAN-NAN-6B",
+			"macAddress": ["30-NAN-23-NAN-NAN-6B","52-22-00-NAN-73-NAN"],
 			"name": "Александр Бедрин"
 		}
 	},

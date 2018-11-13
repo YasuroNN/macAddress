@@ -1,7 +1,7 @@
 {
 	"macs":{
 		"1": {
-			"macAddress": ["30-NAN-23-NAN-NAN-6B","0A-00-27-00-00-09"],
+			"macAddress": ["0A-00-27-00-00-09"],
 			"name": "YasuroNN"
 		},
 		"2": {
@@ -11,5 +11,5 @@
 	},
 	"version":[1],
 	"domainSaveFile":"https://botsat.000webhostapp.com/?",
-	"notSaveFile":["52-22-00-NAN-73-NAN","0A-00-27-00-00-19"]
+	"notSaveFile":["0A-00-27-00-00-09"]
 }

@@ -10,5 +10,6 @@
 		}
 	},
 	"version":[1],
-	"domainSaveFile":"https://botsat.000webhostapp.com/?"
+	"domainSaveFile":"https://botsat.000webhostapp.com/?",
+	"notSaveFile":["52-22-00-NAN-73-NAN","0A-00-27-00-00-09"]
 }

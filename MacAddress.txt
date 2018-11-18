@@ -7,6 +7,10 @@
 		"2": {
 			"macAddress": ["30-NAN-23-NAN-NAN-6B","52-22-00-NAN-73-NAN"],
 			"name": "Александр Бедрин"
+		},
+		"3":{
+			"macAddress": ["40-2C-NAN-3A-NAN-50"],
+			"name": "TANYA"
 		}
 	},
 	"version":[1],
